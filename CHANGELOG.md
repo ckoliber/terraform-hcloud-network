@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/cktf/terraform-hcloud-network/compare/2.1.0...2.2.0) (2025-07-03)
+
+
+### Features
+
+* split subnets, routes resources ([d2c986c](https://github.com/cktf/terraform-hcloud-network/commit/d2c986c8f5ede04f215812a4bc4071dfb671f91e))
+
 # [2.1.0](https://github.com/cktf/terraform-hcloud-network/compare/2.0.0...2.1.0) (2025-06-06)
 
 
