@@ -1,6 +1,6 @@
 variable "name" {
   type        = string
-  default     = ""
+  default     = null
   sensitive   = false
   description = "Network Name"
 }
@@ -14,7 +14,7 @@ variable "zone" {
 
 variable "cidr" {
   type        = string
-  default     = ""
+  default     = null
   sensitive   = false
   description = "Network CIDR"
 }
