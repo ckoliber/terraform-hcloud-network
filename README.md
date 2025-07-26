@@ -1,8 +1,8 @@
 # Terraform HCloud Network
 
-![pipeline](https://github.com/cktf/terraform-hcloud-network/actions/workflows/ci.yml/badge.svg)
-![release](https://img.shields.io/github/v/release/cktf/terraform-hcloud-network?display_name=tag)
-![license](https://img.shields.io/github/license/cktf/terraform-hcloud-network)
+![pipeline](https://github.com/ckoliber/terraform-hcloud-network/actions/workflows/ci.yml/badge.svg)
+![release](https://img.shields.io/github/v/release/ckoliber/terraform-hcloud-network?display_name=tag)
+![license](https://img.shields.io/github/license/ckoliber/terraform-hcloud-network)
 
 **Network** is a Terraform module useful for creating **Network**, **Subnets**, **Routes**, and **Firewalls** on **HCloud**
 
@@ -18,7 +18,7 @@ terraform init
 
 ```hcl
 module "network" {
-  source = "cktf/network/hcloud"
+  source = "ckoliber/network/hcloud"
 
   name = "mynet"
   cidr = "192.168.0.0/16"
