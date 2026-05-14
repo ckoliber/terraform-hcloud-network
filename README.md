@@ -1,6 +1,6 @@
 # Terraform HCloud Network
 
-![pipeline](https://github.com/ckoliber/terraform-hcloud-network/actions/workflows/ci.yml/badge.svg)
+![pipeline](https://github.com/ckoliber/terraform-hcloud-network/actions/workflows/cicd.yml/badge.svg)
 ![release](https://img.shields.io/github/v/release/ckoliber/terraform-hcloud-network?display_name=tag)
 ![license](https://img.shields.io/github/license/ckoliber/terraform-hcloud-network)
 
@@ -77,4 +77,4 @@ Please make sure to update tests as appropriate.
 ## License
 
 This project is licensed under the [MIT](LICENSE.md).  
-Copyright (c) KoLiBer (koliberr136a1@gmail.com)
+Copyright (c) Hoomaan (ckoliber@gmail.com)
